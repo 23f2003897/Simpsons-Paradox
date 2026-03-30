@@ -1,0 +1,6 @@
+{
+  "prompt": "A dramatic photograph looking down into an ancient spiral staircase inside a stone tower. The staircase spirals downward into darkness far below. However, each individual stone step is visibly tilted and sloping upward toward the outer wall, with small puddles of rainwater collected at the inner edge of each step proving the upward tilt. Weathered moss-covered stone walls. Dim natural light from a window at the top illuminating the first few steps, with deeper steps fading into shadow. Architectural photography, wide-angle lens, high dynamic range, moody atmosphere.",
+  "model": "Flux Pro 1.1",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "A spiral staircase descends overall, but each individual step tilts visibly upward. Local direction contradicts global direction — the structural core of Simpson's Paradox."
+}
